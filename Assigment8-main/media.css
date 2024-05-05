@@ -1,0 +1,64 @@
+@media screen and (max-width:500px){
+    li{
+        display: inline-block;
+        margin-left:2px;
+        list-style: none;
+        font-size: 13px;
+    }
+    #aaaa {
+        
+        width:100%!important;
+        height: 20vh;
+    }
+    #bbbb{
+        font-size: 20px;
+        margin-left: -35px;
+    }
+    .ul{
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+    #button{
+        width: 50px;
+        height: 20px;
+        background-color: aquamarine;
+        border-radius: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 10px;
+        color: white;
+        font-weight: bold;
+        margin-left: 10px;
+        margin-top: 10px;
+        background-color: rgb(216, 218, 219);
+        cursor: pointer;
+    }
+    .text{
+        width: 20vw;
+        height: 20vh;
+        
+        margin-top: 120px;
+    }
+    #cccc{
+        font-size: 20px!important;
+    }
+    p{
+        font-size: 10px;
+    }
+    #dddd{
+        width: 50px;
+        height: 50px;
+
+      } 
+      #gggg{
+        width: 250px;
+        height: 350px;
+        position: relative;
+        left: 250px;
+        
+
+      } 
+    
+      
+}

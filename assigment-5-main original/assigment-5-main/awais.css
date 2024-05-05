@@ -1,0 +1,60 @@
+@media  screen and (min-width:300px) and (max-width:400px)
+{
+#awais{
+    color:white;
+    margin-left: 65px;
+    font-size: 30px;
+}
+.ali{
+    margin-left: 33px;
+}
+.khan{
+    margin-left: 55px;
+}
+#ss{
+   margin-left: -172px;
+   width: 230px;
+   height:150px;
+}
+#dd{
+    font-size: 25px;
+    margin-left: -170px;
+    margin-top: 10px;
+
+}
+.para{
+    margin-left: -170px;
+    margin-top: 5px;
+}
+
+}
+@media  screen and (min-width:400px) and (max-width:500px)
+{
+#awais{
+    color:white;
+    margin-left: 85px;
+    font-size: 30px;
+}
+.ali{
+    margin-left: 43px;
+}
+.khan{
+    margin-left: 75px;
+}
+#ss{
+   margin-left: -150px;
+   width: 300px;
+   height: 180px;
+}
+#dd{
+    font-size: 24px;
+    margin-left: -150px;
+    margin-top: 10px;
+
+}
+.para{
+    margin-left: -150px;
+    margin-top: 5px;
+}
+
+}
